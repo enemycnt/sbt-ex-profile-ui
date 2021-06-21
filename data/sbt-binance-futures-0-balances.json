@@ -1,0 +1,32 @@
+[
+  {
+    "profile_id": 14,
+    "asset": "USDT",
+    "total": 438.57484374,
+    "free": 6.25377587,
+    "locked": 432.32106787,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:02:53.954333Z",
+    "id": 1169
+  },
+  {
+    "profile_id": 14,
+    "asset": "BNB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:02:53.954333Z",
+    "id": 1170
+  },
+  {
+    "profile_id": 14,
+    "asset": "BUSD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:02:53.954333Z",
+    "id": 1171
+  }
+]

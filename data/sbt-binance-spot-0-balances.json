@@ -1,0 +1,3852 @@
+[
+  {
+    "profile_id": 13,
+    "asset": "BTC",
+    "total": 0.009,
+    "free": 0.009,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91324
+  },
+  {
+    "profile_id": 13,
+    "asset": "LTC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91325
+  },
+  {
+    "profile_id": 13,
+    "asset": "ETH",
+    "total": 0, 
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91326
+  },
+  {
+    "profile_id": 13,
+    "asset": "NEO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91327
+  },
+  {
+    "profile_id": 13,
+    "asset": "BNB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91328
+  },
+  {
+    "profile_id": 13,
+    "asset": "QTUM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91329
+  },
+  {
+    "profile_id": 13,
+    "asset": "EOS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91330
+  },
+  {
+    "profile_id": 13,
+    "asset": "SNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91331
+  },
+  {
+    "profile_id": 13,
+    "asset": "BNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91332
+  },
+  {
+    "profile_id": 13,
+    "asset": "GAS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91333
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91334
+  },
+  {
+    "profile_id": 13,
+    "asset": "USDT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91335
+  },
+  {
+    "profile_id": 13,
+    "asset": "HSR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91336
+  },
+  {
+    "profile_id": 13,
+    "asset": "OAX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91337
+  },
+  {
+    "profile_id": 13,
+    "asset": "DNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91338
+  },
+  {
+    "profile_id": 13,
+    "asset": "MCO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91339
+  },
+  {
+    "profile_id": 13,
+    "asset": "ICN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91340
+  },
+  {
+    "profile_id": 13,
+    "asset": "ZRX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91341
+  },
+  {
+    "profile_id": 13,
+    "asset": "OMG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91342
+  },
+  {
+    "profile_id": 13,
+    "asset": "WTC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91343
+  },
+  {
+    "profile_id": 13,
+    "asset": "YOYO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91344
+  },
+  {
+    "profile_id": 13,
+    "asset": "LRC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91345
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91346
+  },
+  {
+    "profile_id": 13,
+    "asset": "SNGLS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91347
+  },
+  {
+    "profile_id": 13,
+    "asset": "STRAT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91348
+  },
+  {
+    "profile_id": 13,
+    "asset": "BQX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91349
+  },
+  {
+    "profile_id": 13,
+    "asset": "FUN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91350
+  },
+  {
+    "profile_id": 13,
+    "asset": "KNC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91351
+  },
+  {
+    "profile_id": 13,
+    "asset": "CDT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91352
+  },
+  {
+    "profile_id": 13,
+    "asset": "XVG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91353
+  },
+  {
+    "profile_id": 13,
+    "asset": "IOTA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91354
+  },
+  {
+    "profile_id": 13,
+    "asset": "SNM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91355
+  },
+  {
+    "profile_id": 13,
+    "asset": "LINK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91356
+  },
+  {
+    "profile_id": 13,
+    "asset": "CVC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91357
+  },
+  {
+    "profile_id": 13,
+    "asset": "TNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91358
+  },
+  {
+    "profile_id": 13,
+    "asset": "REP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91359
+  },
+  {
+    "profile_id": 13,
+    "asset": "MDA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91360
+  },
+  {
+    "profile_id": 13,
+    "asset": "MTL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91361
+  },
+  {
+    "profile_id": 13,
+    "asset": "SALT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91362
+  },
+  {
+    "profile_id": 13,
+    "asset": "NULS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91363
+  },
+  {
+    "profile_id": 13,
+    "asset": "SUB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91364
+  },
+  {
+    "profile_id": 13,
+    "asset": "STX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91365
+  },
+  {
+    "profile_id": 13,
+    "asset": "MTH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91366
+  },
+  {
+    "profile_id": 13,
+    "asset": "ADX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91367
+  },
+  {
+    "profile_id": 13,
+    "asset": "ETC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91368
+  },
+  {
+    "profile_id": 13,
+    "asset": "ENG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91369
+  },
+  {
+    "profile_id": 13,
+    "asset": "ZEC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91370
+  },
+  {
+    "profile_id": 13,
+    "asset": "AST",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91371
+  },
+  {
+    "profile_id": 13,
+    "asset": "GNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91372
+  },
+  {
+    "profile_id": 13,
+    "asset": "DGD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91373
+  },
+  {
+    "profile_id": 13,
+    "asset": "BAT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91374
+  },
+  {
+    "profile_id": 13,
+    "asset": "DASH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91375
+  },
+  {
+    "profile_id": 13,
+    "asset": "POWR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91376
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91377
+  },
+  {
+    "profile_id": 13,
+    "asset": "REQ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91378
+  },
+  {
+    "profile_id": 13,
+    "asset": "XMR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91379
+  },
+  {
+    "profile_id": 13,
+    "asset": "EVX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91380
+  },
+  {
+    "profile_id": 13,
+    "asset": "VIB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91381
+  },
+  {
+    "profile_id": 13,
+    "asset": "ENJ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91382
+  },
+  {
+    "profile_id": 13,
+    "asset": "VEN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91383
+  },
+  {
+    "profile_id": 13,
+    "asset": "ARK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91384
+  },
+  {
+    "profile_id": 13,
+    "asset": "XRP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91385
+  },
+  {
+    "profile_id": 13,
+    "asset": "MOD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91386
+  },
+  {
+    "profile_id": 13,
+    "asset": "STORJ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91387
+  },
+  {
+    "profile_id": 13,
+    "asset": "KMD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91388
+  },
+  {
+    "profile_id": 13,
+    "asset": "RCN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91389
+  },
+  {
+    "profile_id": 13,
+    "asset": "EDO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91390
+  },
+  {
+    "profile_id": 13,
+    "asset": "DATA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91391
+  },
+  {
+    "profile_id": 13,
+    "asset": "DLT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91392
+  },
+  {
+    "profile_id": 13,
+    "asset": "MANA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91393
+  },
+  {
+    "profile_id": 13,
+    "asset": "PPT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91394
+  },
+  {
+    "profile_id": 13,
+    "asset": "RDN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91395
+  },
+  {
+    "profile_id": 13,
+    "asset": "GXS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91396
+  },
+  {
+    "profile_id": 13,
+    "asset": "AMB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91397
+  },
+  {
+    "profile_id": 13,
+    "asset": "ARN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91398
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCPT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91399
+  },
+  {
+    "profile_id": 13,
+    "asset": "CND",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91400
+  },
+  {
+    "profile_id": 13,
+    "asset": "GVT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91401
+  },
+  {
+    "profile_id": 13,
+    "asset": "POE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91402
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91403
+  },
+  {
+    "profile_id": 13,
+    "asset": "FUEL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91404
+  },
+  {
+    "profile_id": 13,
+    "asset": "XZC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91405
+  },
+  {
+    "profile_id": 13,
+    "asset": "QSP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91406
+  },
+  {
+    "profile_id": 13,
+    "asset": "LSK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91407
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91408
+  },
+  {
+    "profile_id": 13,
+    "asset": "TNB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91409
+  },
+  {
+    "profile_id": 13,
+    "asset": "ADA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91410
+  },
+  {
+    "profile_id": 13,
+    "asset": "LEND",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91411
+  },
+  {
+    "profile_id": 13,
+    "asset": "XLM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91412
+  },
+  {
+    "profile_id": 13,
+    "asset": "CMT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91413
+  },
+  {
+    "profile_id": 13,
+    "asset": "WAVES",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91414
+  },
+  {
+    "profile_id": 13,
+    "asset": "WABI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91415
+  },
+  {
+    "profile_id": 13,
+    "asset": "GTO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91416
+  },
+  {
+    "profile_id": 13,
+    "asset": "ICX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91417
+  },
+  {
+    "profile_id": 13,
+    "asset": "OST",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91418
+  },
+  {
+    "profile_id": 13,
+    "asset": "ELF",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91419
+  },
+  {
+    "profile_id": 13,
+    "asset": "AION",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91420
+  },
+  {
+    "profile_id": 13,
+    "asset": "WINGS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91421
+  },
+  {
+    "profile_id": 13,
+    "asset": "BRD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91422
+  },
+  {
+    "profile_id": 13,
+    "asset": "NEBL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91423
+  },
+  {
+    "profile_id": 13,
+    "asset": "NAV",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91424
+  },
+  {
+    "profile_id": 13,
+    "asset": "VIBE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91425
+  },
+  {
+    "profile_id": 13,
+    "asset": "LUN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91426
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRIG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91427
+  },
+  {
+    "profile_id": 13,
+    "asset": "APPC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91428
+  },
+  {
+    "profile_id": 13,
+    "asset": "CHAT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91429
+  },
+  {
+    "profile_id": 13,
+    "asset": "RLC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91430
+  },
+  {
+    "profile_id": 13,
+    "asset": "INS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91431
+  },
+  {
+    "profile_id": 13,
+    "asset": "PIVX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91432
+  },
+  {
+    "profile_id": 13,
+    "asset": "IOST",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91433
+  },
+  {
+    "profile_id": 13,
+    "asset": "STEEM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91434
+  },
+  {
+    "profile_id": 13,
+    "asset": "NANO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91435
+  },
+  {
+    "profile_id": 13,
+    "asset": "AE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91436
+  },
+  {
+    "profile_id": 13,
+    "asset": "VIA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91437
+  },
+  {
+    "profile_id": 13,
+    "asset": "BLZ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91438
+  },
+  {
+    "profile_id": 13,
+    "asset": "SYS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91439
+  },
+  {
+    "profile_id": 13,
+    "asset": "RPX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91440
+  },
+  {
+    "profile_id": 13,
+    "asset": "NCASH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91441
+  },
+  {
+    "profile_id": 13,
+    "asset": "POA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91442
+  },
+  {
+    "profile_id": 13,
+    "asset": "ONT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91443
+  },
+  {
+    "profile_id": 13,
+    "asset": "ZIL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91444
+  },
+  {
+    "profile_id": 13,
+    "asset": "STORM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91445
+  },
+  {
+    "profile_id": 13,
+    "asset": "XEM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91446
+  },
+  {
+    "profile_id": 13,
+    "asset": "WAN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91447
+  },
+  {
+    "profile_id": 13,
+    "asset": "WPR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91448
+  },
+  {
+    "profile_id": 13,
+    "asset": "QLC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91449
+  },
+  {
+    "profile_id": 13,
+    "asset": "GRS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91450
+  },
+  {
+    "profile_id": 13,
+    "asset": "CLOAK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91451
+  },
+  {
+    "profile_id": 13,
+    "asset": "LOOM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91452
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91453
+  },
+  {
+    "profile_id": 13,
+    "asset": "TUSD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91454
+  },
+  {
+    "profile_id": 13,
+    "asset": "ZEN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91455
+  },
+  {
+    "profile_id": 13,
+    "asset": "SKY",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91456
+  },
+  {
+    "profile_id": 13,
+    "asset": "THETA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91457
+  },
+  {
+    "profile_id": 13,
+    "asset": "IOTX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91458
+  },
+  {
+    "profile_id": 13,
+    "asset": "QKC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91459
+  },
+  {
+    "profile_id": 13,
+    "asset": "AGI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91460
+  },
+  {
+    "profile_id": 13,
+    "asset": "NXS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91461
+  },
+  {
+    "profile_id": 13,
+    "asset": "SC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91462
+  },
+  {
+    "profile_id": 13,
+    "asset": "NPXS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91463
+  },
+  {
+    "profile_id": 13,
+    "asset": "KEY",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91464
+  },
+  {
+    "profile_id": 13,
+    "asset": "NAS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91465
+  },
+  {
+    "profile_id": 13,
+    "asset": "MFT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91466
+  },
+  {
+    "profile_id": 13,
+    "asset": "DENT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91467
+  },
+  {
+    "profile_id": 13,
+    "asset": "IQ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91468
+  },
+  {
+    "profile_id": 13,
+    "asset": "ARDR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91469
+  },
+  {
+    "profile_id": 13,
+    "asset": "HOT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91470
+  },
+  {
+    "profile_id": 13,
+    "asset": "VET",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91471
+  },
+  {
+    "profile_id": 13,
+    "asset": "DOCK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91472
+  },
+  {
+    "profile_id": 13,
+    "asset": "POLY",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91473
+  },
+  {
+    "profile_id": 13,
+    "asset": "VTHO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91474
+  },
+  {
+    "profile_id": 13,
+    "asset": "ONG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91475
+  },
+  {
+    "profile_id": 13,
+    "asset": "PHX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91476
+  },
+  {
+    "profile_id": 13,
+    "asset": "HC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91477
+  },
+  {
+    "profile_id": 13,
+    "asset": "GO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91478
+  },
+  {
+    "profile_id": 13,
+    "asset": "PAX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91479
+  },
+  {
+    "profile_id": 13,
+    "asset": "RVN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91480
+  },
+  {
+    "profile_id": 13,
+    "asset": "DCR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91481
+  },
+  {
+    "profile_id": 13,
+    "asset": "USDC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91482
+  },
+  {
+    "profile_id": 13,
+    "asset": "MITH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91483
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCHABC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91484
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCHSV",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91485
+  },
+  {
+    "profile_id": 13,
+    "asset": "REN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91486
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91487
+  },
+  {
+    "profile_id": 13,
+    "asset": "USDS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91488
+  },
+  {
+    "profile_id": 13,
+    "asset": "FET",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91489
+  },
+  {
+    "profile_id": 13,
+    "asset": "TFUEL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91490
+  },
+  {
+    "profile_id": 13,
+    "asset": "CELR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91491
+  },
+  {
+    "profile_id": 13,
+    "asset": "MATIC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91492
+  },
+  {
+    "profile_id": 13,
+    "asset": "ATOM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91493
+  },
+  {
+    "profile_id": 13,
+    "asset": "PHB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91494
+  },
+  {
+    "profile_id": 13,
+    "asset": "ONE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91495
+  },
+  {
+    "profile_id": 13,
+    "asset": "FTM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91496
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTCB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91497
+  },
+  {
+    "profile_id": 13,
+    "asset": "USDSB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91498
+  },
+  {
+    "profile_id": 13,
+    "asset": "CHZ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91499
+  },
+  {
+    "profile_id": 13,
+    "asset": "COS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91500
+  },
+  {
+    "profile_id": 13,
+    "asset": "ALGO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91501
+  },
+  {
+    "profile_id": 13,
+    "asset": "ERD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91502
+  },
+  {
+    "profile_id": 13,
+    "asset": "DOGE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91503
+  },
+  {
+    "profile_id": 13,
+    "asset": "BGBP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91504
+  },
+  {
+    "profile_id": 13,
+    "asset": "DUSK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91505
+  },
+  {
+    "profile_id": 13,
+    "asset": "ANKR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91506
+  },
+  {
+    "profile_id": 13,
+    "asset": "WIN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91507
+  },
+  {
+    "profile_id": 13,
+    "asset": "TUSDB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91508
+  },
+  {
+    "profile_id": 13,
+    "asset": "COCOS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91509
+  },
+  {
+    "profile_id": 13,
+    "asset": "PERL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91510
+  },
+  {
+    "profile_id": 13,
+    "asset": "TOMO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91511
+  },
+  {
+    "profile_id": 13,
+    "asset": "BUSD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91512
+  },
+  {
+    "profile_id": 13,
+    "asset": "BAND",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91513
+  },
+  {
+    "profile_id": 13,
+    "asset": "BEAM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91514
+  },
+  {
+    "profile_id": 13,
+    "asset": "HBAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91515
+  },
+  {
+    "profile_id": 13,
+    "asset": "XTZ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91516
+  },
+  {
+    "profile_id": 13,
+    "asset": "NGN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91517
+  },
+  {
+    "profile_id": 13,
+    "asset": "DGB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91518
+  },
+  {
+    "profile_id": 13,
+    "asset": "NKN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91519
+  },
+  {
+    "profile_id": 13,
+    "asset": "GBP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91520
+  },
+  {
+    "profile_id": 13,
+    "asset": "EUR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91521
+  },
+  {
+    "profile_id": 13,
+    "asset": "KAVA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91522
+  },
+  {
+    "profile_id": 13,
+    "asset": "RUB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91523
+  },
+  {
+    "profile_id": 13,
+    "asset": "UAH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91524
+  },
+  {
+    "profile_id": 13,
+    "asset": "ARPA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91525
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRY",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91526
+  },
+  {
+    "profile_id": 13,
+    "asset": "CTXC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91527
+  },
+  {
+    "profile_id": 13,
+    "asset": "AERGO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91528
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91529
+  },
+  {
+    "profile_id": 13,
+    "asset": "TROY",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91530
+  },
+  {
+    "profile_id": 13,
+    "asset": "BRL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91531
+  },
+  {
+    "profile_id": 13,
+    "asset": "VITE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91532
+  },
+  {
+    "profile_id": 13,
+    "asset": "FTT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91533
+  },
+  {
+    "profile_id": 13,
+    "asset": "AUD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91534
+  },
+  {
+    "profile_id": 13,
+    "asset": "OGN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91535
+  },
+  {
+    "profile_id": 13,
+    "asset": "DREP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91536
+  },
+  {
+    "profile_id": 13,
+    "asset": "BULL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91537
+  },
+  {
+    "profile_id": 13,
+    "asset": "BEAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91538
+  },
+  {
+    "profile_id": 13,
+    "asset": "ETHBULL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91539
+  },
+  {
+    "profile_id": 13,
+    "asset": "ETHBEAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91540
+  },
+  {
+    "profile_id": 13,
+    "asset": "XRPBULL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91541
+  },
+  {
+    "profile_id": 13,
+    "asset": "XRPBEAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91542
+  },
+  {
+    "profile_id": 13,
+    "asset": "EOSBULL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91543
+  },
+  {
+    "profile_id": 13,
+    "asset": "EOSBEAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91544
+  },
+  {
+    "profile_id": 13,
+    "asset": "TCT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91545
+  },
+  {
+    "profile_id": 13,
+    "asset": "WRX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91546
+  },
+  {
+    "profile_id": 13,
+    "asset": "LTO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91547
+  },
+  {
+    "profile_id": 13,
+    "asset": "ZAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91548
+  },
+  {
+    "profile_id": 13,
+    "asset": "MBL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91549
+  },
+  {
+    "profile_id": 13,
+    "asset": "COTI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91550
+  },
+  {
+    "profile_id": 13,
+    "asset": "BKRW",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91551
+  },
+  {
+    "profile_id": 13,
+    "asset": "BNBBULL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91552
+  },
+  {
+    "profile_id": 13,
+    "asset": "BNBBEAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91553
+  },
+  {
+    "profile_id": 13,
+    "asset": "HIVE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91554
+  },
+  {
+    "profile_id": 13,
+    "asset": "STPT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91555
+  },
+  {
+    "profile_id": 13,
+    "asset": "SOL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91556
+  },
+  {
+    "profile_id": 13,
+    "asset": "IDRT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91557
+  },
+  {
+    "profile_id": 13,
+    "asset": "CTSI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91558
+  },
+  {
+    "profile_id": 13,
+    "asset": "CHR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91559
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTCUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91560
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTCDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91561
+  },
+  {
+    "profile_id": 13,
+    "asset": "HNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91562
+  },
+  {
+    "profile_id": 13,
+    "asset": "JST",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91563
+  },
+  {
+    "profile_id": 13,
+    "asset": "FIO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91564
+  },
+  {
+    "profile_id": 13,
+    "asset": "BIDR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91565
+  },
+  {
+    "profile_id": 13,
+    "asset": "STMX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91566
+  },
+  {
+    "profile_id": 13,
+    "asset": "MDT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91567
+  },
+  {
+    "profile_id": 13,
+    "asset": "PNT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91568
+  },
+  {
+    "profile_id": 13,
+    "asset": "COMP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91569
+  },
+  {
+    "profile_id": 13,
+    "asset": "IRIS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91570
+  },
+  {
+    "profile_id": 13,
+    "asset": "MKR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91571
+  },
+  {
+    "profile_id": 13,
+    "asset": "SXP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91572
+  },
+  {
+    "profile_id": 13,
+    "asset": "SNX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91573
+  },
+  {
+    "profile_id": 13,
+    "asset": "DAI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91574
+  },
+  {
+    "profile_id": 13,
+    "asset": "ETHUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91575
+  },
+  {
+    "profile_id": 13,
+    "asset": "ETHDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91576
+  },
+  {
+    "profile_id": 13,
+    "asset": "ADAUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91577
+  },
+  {
+    "profile_id": 13,
+    "asset": "ADADOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91578
+  },
+  {
+    "profile_id": 13,
+    "asset": "LINKUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91579
+  },
+  {
+    "profile_id": 13,
+    "asset": "LINKDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91580
+  },
+  {
+    "profile_id": 13,
+    "asset": "DOT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91581
+  },
+  {
+    "profile_id": 13,
+    "asset": "RUNE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91582
+  },
+  {
+    "profile_id": 13,
+    "asset": "BNBUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91583
+  },
+  {
+    "profile_id": 13,
+    "asset": "BNBDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91584
+  },
+  {
+    "profile_id": 13,
+    "asset": "XTZUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91585
+  },
+  {
+    "profile_id": 13,
+    "asset": "XTZDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91586
+  },
+  {
+    "profile_id": 13,
+    "asset": "AVA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91587
+  },
+  {
+    "profile_id": 13,
+    "asset": "BAL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91588
+  },
+  {
+    "profile_id": 13,
+    "asset": "YFI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91589
+  },
+  {
+    "profile_id": 13,
+    "asset": "SRM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91590
+  },
+  {
+    "profile_id": 13,
+    "asset": "ANT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91591
+  },
+  {
+    "profile_id": 13,
+    "asset": "CRV",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91592
+  },
+  {
+    "profile_id": 13,
+    "asset": "SAND",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91593
+  },
+  {
+    "profile_id": 13,
+    "asset": "OCEAN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91594
+  },
+  {
+    "profile_id": 13,
+    "asset": "NMR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91595
+  },
+  {
+    "profile_id": 13,
+    "asset": "LUNA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91596
+  },
+  {
+    "profile_id": 13,
+    "asset": "IDEX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91597
+  },
+  {
+    "profile_id": 13,
+    "asset": "RSR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91598
+  },
+  {
+    "profile_id": 13,
+    "asset": "PAXG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91599
+  },
+  {
+    "profile_id": 13,
+    "asset": "WNXM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91600
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91601
+  },
+  {
+    "profile_id": 13,
+    "asset": "EGLD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91602
+  },
+  {
+    "profile_id": 13,
+    "asset": "BZRX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91603
+  },
+  {
+    "profile_id": 13,
+    "asset": "WBTC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91604
+  },
+  {
+    "profile_id": 13,
+    "asset": "KSM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91605
+  },
+  {
+    "profile_id": 13,
+    "asset": "SUSHI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91606
+  },
+  {
+    "profile_id": 13,
+    "asset": "YFII",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91607
+  },
+  {
+    "profile_id": 13,
+    "asset": "DIA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91608
+  },
+  {
+    "profile_id": 13,
+    "asset": "BEL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91609
+  },
+  {
+    "profile_id": 13,
+    "asset": "UMA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91610
+  },
+  {
+    "profile_id": 13,
+    "asset": "EOSUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91611
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRXUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91612
+  },
+  {
+    "profile_id": 13,
+    "asset": "EOSDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91613
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRXDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91614
+  },
+  {
+    "profile_id": 13,
+    "asset": "XRPUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91615
+  },
+  {
+    "profile_id": 13,
+    "asset": "XRPDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91616
+  },
+  {
+    "profile_id": 13,
+    "asset": "DOTUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91617
+  },
+  {
+    "profile_id": 13,
+    "asset": "DOTDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91618
+  },
+  {
+    "profile_id": 13,
+    "asset": "NBS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91619
+  },
+  {
+    "profile_id": 13,
+    "asset": "WING",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91620
+  },
+  {
+    "profile_id": 13,
+    "asset": "SWRV",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91621
+  },
+  {
+    "profile_id": 13,
+    "asset": "LTCUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91622
+  },
+  {
+    "profile_id": 13,
+    "asset": "LTCDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91623
+  },
+  {
+    "profile_id": 13,
+    "asset": "CREAM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91624
+  },
+  {
+    "profile_id": 13,
+    "asset": "UNI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91625
+  },
+  {
+    "profile_id": 13,
+    "asset": "OXT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91626
+  },
+  {
+    "profile_id": 13,
+    "asset": "SUN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91627
+  },
+  {
+    "profile_id": 13,
+    "asset": "AVAX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91628
+  },
+  {
+    "profile_id": 13,
+    "asset": "BURGER",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91629
+  },
+  {
+    "profile_id": 13,
+    "asset": "BAKE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91630
+  },
+  {
+    "profile_id": 13,
+    "asset": "FLM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91631
+  },
+  {
+    "profile_id": 13,
+    "asset": "SCRT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91632
+  },
+  {
+    "profile_id": 13,
+    "asset": "XVS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91633
+  },
+  {
+    "profile_id": 13,
+    "asset": "CAKE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91634
+  },
+  {
+    "profile_id": 13,
+    "asset": "SPARTA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91635
+  },
+  {
+    "profile_id": 13,
+    "asset": "UNIUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91636
+  },
+  {
+    "profile_id": 13,
+    "asset": "UNIDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91637
+  },
+  {
+    "profile_id": 13,
+    "asset": "ALPHA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91638
+  },
+  {
+    "profile_id": 13,
+    "asset": "ORN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91639
+  },
+  {
+    "profile_id": 13,
+    "asset": "UTK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91640
+  },
+  {
+    "profile_id": 13,
+    "asset": "NEAR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91641
+  },
+  {
+    "profile_id": 13,
+    "asset": "VIDT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91642
+  },
+  {
+    "profile_id": 13,
+    "asset": "AAVE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91643
+  },
+  {
+    "profile_id": 13,
+    "asset": "FIL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91644
+  },
+  {
+    "profile_id": 13,
+    "asset": "SXPUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91645
+  },
+  {
+    "profile_id": 13,
+    "asset": "SXPDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91646
+  },
+  {
+    "profile_id": 13,
+    "asset": "INJ",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91647
+  },
+  {
+    "profile_id": 13,
+    "asset": "FILDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91648
+  },
+  {
+    "profile_id": 13,
+    "asset": "FILUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91649
+  },
+  {
+    "profile_id": 13,
+    "asset": "YFIUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91650
+  },
+  {
+    "profile_id": 13,
+    "asset": "YFIDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91651
+  },
+  {
+    "profile_id": 13,
+    "asset": "CTK",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91652
+  },
+  {
+    "profile_id": 13,
+    "asset": "EASY",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91653
+  },
+  {
+    "profile_id": 13,
+    "asset": "AUDIO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91654
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCHUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91655
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCHDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91656
+  },
+  {
+    "profile_id": 13,
+    "asset": "BOT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91657
+  },
+  {
+    "profile_id": 13,
+    "asset": "AXS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91658
+  },
+  {
+    "profile_id": 13,
+    "asset": "AKRO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91659
+  },
+  {
+    "profile_id": 13,
+    "asset": "HARD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91660
+  },
+  {
+    "profile_id": 13,
+    "asset": "KP3R",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91661
+  },
+  {
+    "profile_id": 13,
+    "asset": "RENBTC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91662
+  },
+  {
+    "profile_id": 13,
+    "asset": "SLP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91663
+  },
+  {
+    "profile_id": 13,
+    "asset": "STRAX",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91664
+  },
+  {
+    "profile_id": 13,
+    "asset": "UNFI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91665
+  },
+  {
+    "profile_id": 13,
+    "asset": "CVP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91666
+  },
+  {
+    "profile_id": 13,
+    "asset": "BCHA",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91667
+  },
+  {
+    "profile_id": 13,
+    "asset": "FOR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91668
+  },
+  {
+    "profile_id": 13,
+    "asset": "FRONT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91669
+  },
+  {
+    "profile_id": 13,
+    "asset": "ROSE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91670
+  },
+  {
+    "profile_id": 13,
+    "asset": "HEGIC",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91671
+  },
+  {
+    "profile_id": 13,
+    "asset": "AAVEUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91672
+  },
+  {
+    "profile_id": 13,
+    "asset": "AAVEDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91673
+  },
+  {
+    "profile_id": 13,
+    "asset": "PROM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91674
+  },
+  {
+    "profile_id": 13,
+    "asset": "BETH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91675
+  },
+  {
+    "profile_id": 13,
+    "asset": "SKL",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91676
+  },
+  {
+    "profile_id": 13,
+    "asset": "GLM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91677
+  },
+  {
+    "profile_id": 13,
+    "asset": "SUSD",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91678
+  },
+  {
+    "profile_id": 13,
+    "asset": "COVER",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91679
+  },
+  {
+    "profile_id": 13,
+    "asset": "GHST",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91680
+  },
+  {
+    "profile_id": 13,
+    "asset": "SUSHIUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91681
+  },
+  {
+    "profile_id": 13,
+    "asset": "SUSHIDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91682
+  },
+  {
+    "profile_id": 13,
+    "asset": "XLMUP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91683
+  },
+  {
+    "profile_id": 13,
+    "asset": "XLMDOWN",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91684
+  },
+  {
+    "profile_id": 13,
+    "asset": "DF",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91685
+  },
+  {
+    "profile_id": 13,
+    "asset": "JUV",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91686
+  },
+  {
+    "profile_id": 13,
+    "asset": "PSG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91687
+  },
+  {
+    "profile_id": 13,
+    "asset": "BVND",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91688
+  },
+  {
+    "profile_id": 13,
+    "asset": "GRT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91689
+  },
+  {
+    "profile_id": 13,
+    "asset": "CELO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91690
+  },
+  {
+    "profile_id": 13,
+    "asset": "TWT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91691
+  },
+  {
+    "profile_id": 13,
+    "asset": "REEF",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91692
+  },
+  {
+    "profile_id": 13,
+    "asset": "OG",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91693
+  },
+  {
+    "profile_id": 13,
+    "asset": "ATM",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91694
+  },
+  {
+    "profile_id": 13,
+    "asset": "ASR",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91695
+  },
+  {
+    "profile_id": 13,
+    "asset": "1INCH",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91696
+  },
+  {
+    "profile_id": 13,
+    "asset": "RIF",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91697
+  },
+  {
+    "profile_id": 13,
+    "asset": "BTCST",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91698
+  },
+  {
+    "profile_id": 13,
+    "asset": "TRU",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91699
+  },
+  {
+    "profile_id": 13,
+    "asset": "DEXE",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91700
+  },
+  {
+    "profile_id": 13,
+    "asset": "CKB",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91701
+  },
+  {
+    "profile_id": 13,
+    "asset": "FIRO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91702
+  },
+  {
+    "profile_id": 13,
+    "asset": "LIT",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91703
+  },
+  {
+    "profile_id": 13,
+    "asset": "PROS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91704
+  },
+  {
+    "profile_id": 13,
+    "asset": "VAI",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91705
+  },
+  {
+    "profile_id": 13,
+    "asset": "SFP",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91706
+  },
+  {
+    "profile_id": 13,
+    "asset": "FXS",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91707
+  },
+  {
+    "profile_id": 13,
+    "asset": "DODO",
+    "total": 0,
+    "free": 0,
+    "locked": 0,
+    "disabled": false,
+    "inserted_at": "2021-02-22T14:19:11.731504Z",
+    "id": 91708
+  }
+]

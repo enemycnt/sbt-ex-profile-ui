@@ -1,0 +1,134 @@
+[
+  {
+    "source": {
+      "id": 1,
+      "name": "BINANCE",
+      "kind": "EXCHANGE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "exchange": {
+      "id": 1,
+      "source_id": 1,
+      "name": "BINANCE-SPOT",
+      "kind": "SPOT",
+      "label": "BINANCE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "account": {
+      "id": 9,
+      "exchange_id": 1,
+      "name": "SBT",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "profile": {
+      "id": 13,
+      "account_id": 9,
+      "name": "0",
+      "label": "SBTBINANCESPOT0",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    }
+  },
+  {
+    "source": {
+      "id": 1,
+      "name": "BINANCE",
+      "kind": "EXCHANGE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "exchange": {
+      "id": 2,
+      "source_id": 1,
+      "name": "BINANCE-FUTURES",
+      "kind": "FUTURES",
+      "label": "BINANCE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "account": {
+      "id": 10,
+      "exchange_id": 2,
+      "name": "SBT",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "profile": {
+      "id": 14,
+      "account_id": 10,
+      "name": "0",
+      "label": "SBTBINANCEFUTURES0",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    }
+  },
+  {
+    "source": {
+      "id": 1,
+      "name": "BINANCE",
+      "kind": "EXCHANGE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "exchange": {
+      "id": 2,
+      "source_id": 1,
+      "name": "BINANCE-FUTURES",
+      "kind": "FUTURES",
+      "label": "BINANCE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "account": {
+      "id": 10,
+      "exchange_id": 2,
+      "name": "SBT",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "profile": {
+      "id": 15,
+      "account_id": 10,
+      "name": "1",
+      "label": "SBTBINANCEFUTURES1",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    }
+  },
+  {
+    "source": {
+      "id": 2,
+      "name": "COINBASE",
+      "kind": "EXCHANGE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "exchange": {
+      "id": 5,
+      "source_id": 2,
+      "name": "COINBASE-PRIME",
+      "kind": "SPOT",
+      "label": "COINBASE",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "account": {
+      "id": 11,
+      "exchange_id": 5,
+      "name": "SBT",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    "profile": {
+      "id": 16,
+      "account_id": 11,
+      "name": "0",
+      "label": "SBTCOINBASESPOT0",
+      "disabled": false,
+      "updated_at": "0001-01-01T00:00:00Z"
+    }
+  }
+]

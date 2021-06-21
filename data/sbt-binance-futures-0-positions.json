@@ -1,0 +1,17 @@
+[
+  {
+    "id": 15,
+    "profile_id": 14,
+    "product": "ETH-USDT",
+    "entry_price": 1961.37877,
+    "liquidation_price": 3906.93983387,
+    "position_amount": 0.22,
+    "position_side": "SHORT",
+    "leverage": 1,
+    "margin_type": "isolated",
+    "isolated_margin": 483.13542047,
+    "unrealized_pnl": 50.8143526,
+    "disabled": false,
+    "updated_at": "2021-02-22T14:02:54.445827Z"
+  }
+]
